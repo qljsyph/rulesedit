@@ -1,18 +1,19 @@
 #域名后缀匹配
-- DOMAIN-SUFFIX,adobe.io
-- DOMAIN-SUFFIX,adobe.com
-- DOMAIN-SUFFIX,assets.adobedtm.com
-- DOMAIN-SUFFIX,alcs-cops.adobe.io
-- DOMAIN-SUFFIX,tt.omtrdc.net
-- DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
-- DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,assets.adobedtm.com
+DOMAIN-SUFFIX,alcs-cops.adobe.io
+DOMAIN-SUFFIX,tt.omtrdc.net
+DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
+DOMAIN-SUFFIX,typekit.net
 
 #关键字匹配
-- DOMAIN-KEYWORD,adobe.io
-- DOMAIN-KEYWORD,crs.cr.adobe.io
+DOMAIN-KEYWORD,adobe.io
+DOMAIN-KEYWORD,crs.cr.adobe.io
 
 #进程匹配
-- PROCESS-NAME,AdobeIPCBroker
+PROCESS-NAME,AdobeIPCBroker
+
 #精准匹配
 DOMAIN，7g2gzgk9g1.adobe.io
 DOMAIN,cc-api-data.adobe.io
