@@ -15,7 +15,7 @@ DOMAIN-KEYWORD,crs.cr.adobe.io
 PROCESS-NAME,AdobeIPCBroker
 
 #精准匹配
-DOMAIN，7g2gzgk9g1.adobe.io
+DOMAIN,7g2gzgk9g1.adobe.io
 DOMAIN,cc-api-data.adobe.io
 DOMAIN,cc-api-data.adobe.io
 DOMAIN,ic.adobe.io
