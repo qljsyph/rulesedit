@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,alcs-cops.adobe.io
 DOMAIN-SUFFIX,tt.omtrdc.net
 DOMAIN-SUFFIX,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,adobeccstatic.com
 
 #关键字匹配
 DOMAIN-KEYWORD,adobe.io
