@@ -1,0 +1,11 @@
+# 精准
+DOMAIN,7g2gzgk9g1.adobe.io
+DOMAIN,1b9khekel6.adobe.io
+DOMAIN,stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
+# 进程
+PROCESS-NAME,AdobeIPCBroker
+# 关键字
+DOMAIN-KEYWORD,crs.cr.adobe.io
+DOMAIN-KEYWORD,adobe.io
+# 域名后缀匹配
+DOMAIN-SUFFIX,adobe.io
