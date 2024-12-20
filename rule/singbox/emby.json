@@ -6,7 +6,9 @@
         "emby.enjoyit.eu.org",
         "emby.lcloud.wiki",
         "notnetflix.cos.cat"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         "123456.al",
         "285286.xyz",
@@ -53,7 +55,9 @@
         "pornemby.club",
         "servers.xeton.dev",
         "xmsl.org"
-      ],
+      ]
+    },
+    {
       "domain_keyword": [
         "emby.wtf",
         "jmsooo",
