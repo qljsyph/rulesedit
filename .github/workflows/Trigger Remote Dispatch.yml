@@ -10,7 +10,7 @@ jobs:
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v3
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ snycrule }}
           repository: username/my-repo
           event-type: remote-push
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
