@@ -1,0 +1,16 @@
+name: Trigger Remote Dispatch
+
+on:
+  push:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: username/my-repo
+          event-type: remote-push
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
