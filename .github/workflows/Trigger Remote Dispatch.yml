@@ -12,5 +12,6 @@ jobs:
         with:
           token: ${{ secrets.syncrule }}
           repository: qljsyph/ruleset-icon
+          another-repository: qljsyph/test-mihomo
           event-type: remote-push
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
